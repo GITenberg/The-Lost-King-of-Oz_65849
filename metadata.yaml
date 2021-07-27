@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '26521'
     url: http://www.gutenberg.org/2009/agents/26521
     wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 65849-h/images/cover.jpg
 creator:
   author:
     agent_name: Thompson, Ruth Plumly
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34661
     wikipedia: https://en.wikipedia.org/wiki/Ruth_Plumly_Thompson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65849#The-Lost-King-of-Oz
 gutenberg_issued: '2021-07-16'
 gutenberg_type: Text
 identifiers:
